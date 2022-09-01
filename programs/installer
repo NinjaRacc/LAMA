@@ -1,5 +1,5 @@
 if not http then
-    print("Sorry, I need access to the interwebs to download stuffs.")
+    print("Sorry, I need access to the internet to download stuff.")
     return
 end
 
