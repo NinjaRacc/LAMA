@@ -1,4 +1,4 @@
-[LAMA - Location Aware Movement API][forum post]
+LAMA - Location Aware Movement API
 ====================================
 
 This API provides *persistent* position and facing awareness for [ComputerCraft][] [turtles][]. You can query a turtle's position and facing at any time, and it will not 'desynchronize' if the turtle is unloaded (game quit / chunk unloaded) while it moves. To achieve this, it offers replacements for the default turtle movement functions, i.e. for `turtle.forward()`, `turtle.back()`, `turtle.up()`, `turtle.down()`, `turtle.turnLeft()` and `turtle.turnRight()`, as well as one for refueling, i.e. for `turtle.refuel()`. It also provides a few more high level movement functions to travel multiple blocks, as well as a waypoint system to store coordinates and refer to them by name.
