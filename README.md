@@ -41,7 +41,7 @@ Installation
 
 To install the API, first run:
 
-```> pastebin get  lama-installer```
+```> pastebin get 4uPc5S5x lama-installer```
 
 which will give you the [installer](installer). After it downloaded, run it:
 
